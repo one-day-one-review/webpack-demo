@@ -79,6 +79,8 @@ export default (text = "Hello world") => {
 };
 ```
 
+修改index.js
+
 ```js index.js
 import component from "./component";
 
