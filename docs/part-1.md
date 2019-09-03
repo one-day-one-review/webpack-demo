@@ -1,5 +1,8 @@
 # 入门
 
+本章代码在
+branch `getstart`
+
 ## 环境
 
 - shell(mac 或者 window)
